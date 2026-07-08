@@ -21,6 +21,7 @@ The event delved into infrastructure management, hiring trends, and security:
 * Practical insights into managing infrastructure automatically using Terraform (Infrastructure as Code) for version control and system reproduction.
 
 &emsp;**Proof of participation :** 
+![alt text](3.jpg)
 ![alt text](image.png)
 
 &emsp;**Outcomes or value gained:**

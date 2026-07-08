@@ -21,6 +21,7 @@ The event featured four deep-dive sessions:
 * Introduction to the BMAD method—breaking down AI-assisted development projects to prevent hallucination caused by context overload.
 
 &emsp;**Proof of participation :** 
+![alt text](Event1.jpg)
 ![alt text](image.png)
 
 &emsp;**Outcomes or value gained:**
