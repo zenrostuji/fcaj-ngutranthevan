@@ -9,23 +9,32 @@ pre: " <b> 5. </b> "
 ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
 {{% /notice %}}
 
-# Secure Hybrid Access to S3 using VPC Endpoints
+# Build an AI Meeting Workforce Platform on AWS
 
 #### Overview
 
-**AWS PrivateLink** provides private connectivity to AWS services from VPCs and your on-premises networks, without exposing your traffic to the Public Internet.
+In this workshop, I build **AI Meeting Workforce Platform** — a web platform for managing meetings and follow-up work. Users can sign in, create or view meeting sessions, upload transcripts/audio, and let the system use AI to summarize the meeting, extract action items, and store assigned tasks in role-based dashboards for Admin, Manager, and Employee users.
 
-In this lab, you will learn how to create, configure, and test VPC endpoints that enable your workloads to reach AWS services without traversing the Public Internet.
+The architecture is designed with an **AWS managed/serverless-first approach**, which fits the MVP scope of the project:
 
-You will create two types of endpoints to access Amazon S3: a Gateway VPC endpoint, and an Interface VPC endpoint. These two types of VPC endpoints offer different benefits depending on if you are accessing Amazon S3 from the cloud or your on-premises location
-+ **Gateway** - Create a gateway endpoint to send traffic to Amazon S3 or DynamoDB using private IP addresses.You route traffic from your VPC to the gateway endpoint using route tables.
-+ **Interface** - Create an interface endpoint to send traffic to endpoint services that use a Network Load Balancer to distribute traffic. Traffic destined for the endpoint service is resolved using DNS.
++ **Frontend:** the Next.js dashboard is built as static files, stored in Amazon S3, and delivered through Amazon CloudFront.
++ **Authentication:** Amazon Cognito manages user sign-up, sign-in, and JWT issuance.
++ **Business API:** Amazon API Gateway receives dashboard requests, validates tokens, and invokes AWS Lambda for business logic.
++ **Database:** Amazon DynamoDB stores users, meetings, tasks, notifications, and processing status.
++ **Meeting storage:** Amazon S3 stores meeting transcripts/audio or bundled meeting data.
++ **AI processing:** EventBridge, Step Functions, and Lambda orchestrate the workflow after new meeting data is uploaded; Lambda calls an external AI service to summarize and extract tasks.
++ **Monitoring:** CloudWatch is used to review logs, track errors, and verify deployment/runtime behavior.
+
+Some components in the architecture diagram, such as VPC, ALB, EC2 Auto Scaling, NAT Gateway, VPC Endpoint, WAF, or SNS, are described as **production extension/design items**. In the report and screenshots, I separate the **MVP components that were implemented** from the **future production architecture** so the workshop stays aligned with the actual project.
 
 #### Content
 
-1. [Workshop overview](5.1-Workshop-overview)
-2. [Prerequiste](5.2-Prerequiste/)
-3. [Access S3 from VPC](5.3-S3-vpc/)
-4. [Access S3 from On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (Bonus)](5.5-Policy/)
-6. [Clean up](5.6-Cleanup/)
+1. [Workshop overview](5.1-Workshop-overview/)
+2. [Prerequisite](5.2-Prerequisite/)
+3. [Managed Services (Cognito, DynamoDB, API)](5.3-Managed-Services/)
+4. [VPC — Chat & Voice (extension design)](5.4-VPC-Chat-Voice/)
+5. [AI Processing Pipeline (S3, EventBridge, Step Functions, Lambda)](5.5-AI-Pipeline/)
+6. [Edge & Frontend (S3, CloudFront, WAF)](5.6-Edge-Frontend/)
+7. [Monitoring & Cost Optimization](5.7-Monitoring-Cost/)
+8. [End-to-end Test](5.8-Test/)
+9. [Clean up](5.9-Cleanup/)

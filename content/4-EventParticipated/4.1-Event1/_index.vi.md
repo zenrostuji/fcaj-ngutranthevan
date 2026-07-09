@@ -21,6 +21,7 @@ Sự kiện xoay quanh 4 phiên trình bày chuyên sâu:
 * Giới thiệu phương pháp BMAD – chia nhỏ quy trình phát triển dự án với AI để tránh hiện tượng hallucination do nhồi nhét quá nhiều context.
 
 &emsp;**Hình ảnh chứng minh:** 
+![alt text](Event1.jpg)
 ![alt text](image.png)
 
 &emsp;**Kết quả hoặc giá trị đạt được:**

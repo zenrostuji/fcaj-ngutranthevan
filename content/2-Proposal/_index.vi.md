@@ -30,7 +30,7 @@ Nền tảng loại bỏ vòng lặp thủ công "nghe — gỡ băng — tách 
 ### 3. Kiến trúc giải pháp
 Nền tảng được tổ chức thành các nhóm dịch vụ: Edge, Managed (ngoài VPC), VPC (Chat & Voice thời gian thực), AI Processing Pipeline (Step Functions, ngoài VPC) và Monitoring. Luồng end-to-end đi theo các bước được đánh số trên sơ đồ: người dùng đăng nhập qua Cognito và tải dashboard qua CloudFront (WAF lọc, tài nguyên tĩnh từ S3); lời gọi API đi qua API Gateway tới API Lambda và DynamoDB; âm thanh/bản ghi được tải lên S3, kích hoạt pipeline EventBridge → Step Functions → Speech Processing Lambda / Task Lambda → AI bên ngoài, công việc được lưu vào DynamoDB; và phần Chat & Voice thời gian thực được định tuyến qua Internet Gateway tới ALB và các EC2 (Auto Scaling trên 2 AZ), với phiên chat được lưu vào một bảng DynamoDB riêng qua VPC Interface Endpoint. CloudWatch và SNS đảm nhận giám sát và cảnh báo.
 
-![AI Meeting Assistant Architecture](/images/2-Proposal/architecture.png)
+![AI Meeting Assistant Architecture](Architecture_1.png)
 
 *Dịch vụ AWS sử dụng*
 - *Amazon CloudFront*: CDN phân phối dashboard Next.js và cache nội dung tĩnh.

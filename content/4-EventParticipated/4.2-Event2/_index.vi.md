@@ -21,6 +21,7 @@ Sự kiện đi sâu vào quản trị hạ tầng, xu hướng tuyển dụng v
 * Thực hành quản trị hạ tầng tự động bằng Terraform (Infrastructure as Code) để lưu vết thay đổi và dễ dàng nhân bản hệ thống.
 
 &emsp;**Hình ảnh chứng minh:** 
+![alt text](3.jpg)
 ![alt text](image.png)
 
 &emsp;**Kết quả hoặc giá trị đạt được:**
