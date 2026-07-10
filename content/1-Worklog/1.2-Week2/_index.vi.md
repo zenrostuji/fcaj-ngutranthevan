@@ -1,21 +1,21 @@
 ---
 title : "Tuần 2"
-date : 2026-01-01
+date : 2026-04-20
 weight : 2
 chapter : false
 pre : " <b> 1.2 </b> "
 ---
 
-## Tuần 2 — IAM & Bảo mật
+## Tuần 2 — Mạng VPC & Máy chủ EC2
 
-Tuần này tập trung vào **IAM & Bảo mật**. Chi tiết công việc theo ngày như bảng dưới.
+Module khó và là nền tảng — dành nhiều thời gian; tuần rút gọn do nghỉ lễ 30/4 và 1/5.
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - IAM: User, Group, Role, Policy<br>- Nguyên tắc Least Privilege (quyền tối thiểu) | 28/04/2026 | 28/04/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
-| 3 | - Lab IAM: tạo User/Group, gán Policy<br>- Bật MFA, tạo & sử dụng IAM Role<br>- Thực hành viết Policy JSON tùy chỉnh | 29/04/2026 | 29/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Nghỉ lễ 30/4 (Ngày Giải phóng miền Nam) | 30/04/2026 | 30/04/2026 |  |
-| 5 | - Nghỉ lễ 1/5 (Quốc tế Lao động) | 01/05/2026 | 01/05/2026 |  |
-| 6 | - Ôn tập IAM; đọc AWS Well-Architected (trụ Security)<br>- Tự rà soát bảo mật tài khoản (root, access key, MFA) | 02/05/2026 | 02/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Kiến thức cơ bản về mạng với Amazon VPC (000003)<br>- Subnet public/private, Route Table, Internet Gateway (khó — bắt đầu) | 27/04/2026 | 27/04/2026 | [Cloud Journey](https://000003.awsstudygroup.com/vi/) |
+| 3 | - Workshop về mạng trên AWS (000092)<br>- NAT Gateway, định tuyến, tách lớp public/private (khó — tiếp) | 28/04/2026 | 28/04/2026 | [Cloud Journey](https://000092.awsstudygroup.com/vi/) |
+| 4 | - Máy chủ ảo với Amazon EC2 (000004)<br>- Instance, AMI, key pair, Security Group | 29/04/2026 | 29/04/2026 | [Cloud Journey](https://000004.awsstudygroup.com/vi/) |
+| 5 | - Nghỉ lễ 30/4 (Ngày Giải phóng miền Nam) | 30/04/2026 | 30/04/2026 |  |
+| 6 | - Nghỉ lễ 1/5 (Quốc tế Lao động) | 01/05/2026 | 01/05/2026 |  |
 
-> *Kết quả:* hoàn thành các đầu việc/lab nêu trên và ghi chú lại cho báo cáo.
+> *Nguồn:* playlist FCJ Bootcamp 2025 & các workshop Cloud Journey.

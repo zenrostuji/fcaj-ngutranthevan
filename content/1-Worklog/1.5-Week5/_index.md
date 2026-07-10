@@ -1,21 +1,21 @@
 ---
 title : "Week 5"
-date : 2026-01-01
+date : 2026-04-20
 weight : 5
 chapter : false
 pre : " <b> 1.5 </b> "
 ---
 
-## Week 5 — Storage & Edge (S3, CloudFront, WAF)
+## Week 5 — Security I — Advanced IAM & access control
 
-This week focused on **Storage & Edge (S3, CloudFront, WAF)**. The detailed daily log is below.
+Security focus (personal interest). Hard modules, each studied in depth.
 
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Amazon S3: bucket, object, storage classes<br>- Versioning, static website hosting | 19/05/2026 | 19/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 3 | - S3 Lifecycle → Glacier (storage cost optimization)<br>- S3 Encryption, Block Public Access | 20/05/2026 | 20/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Amazon CloudFront (CDN): distribution, cache, OAC<br>- AWS WAF: block SQLi / XSS / bots at the edge | 21/05/2026 | 21/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Lab: host static site on S3 + CloudFront + WAF<br>- Configure S3 → Glacier lifecycle | 22/05/2026 | 22/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 6 | - Compare cost across storage classes<br>- Review the Storage / Edge group | 23/05/2026 | 23/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Access control with IAM Policies and Conditions (000044) — (hard, security) | 18/05/2026 | 18/05/2026 | [Cloud Journey](https://000044.awsstudygroup.com/vi/) |
+| 3 | - Limiting permissions with IAM Permission Boundaries (000030) — (hard, security) | 19/05/2026 | 19/05/2026 | [Cloud Journey](https://000030.awsstudygroup.com/vi/) |
+| 4 | - Identity federation with AWS IAM Identity Center / SSO (000012) | 20/05/2026 | 20/05/2026 | [Cloud Journey](https://000012.awsstudygroup.com/vi/) |
+| 5 | - User authentication with Amazon Cognito (000141) — (application security) | 21/05/2026 | 21/05/2026 | [Cloud Journey](https://000141.awsstudygroup.com/vi/) |
+| 6 | - Secrets management with AWS Secrets Manager (000096) | 22/05/2026 | 22/05/2026 | [Cloud Journey](https://000096.awsstudygroup.com/vi/) |
 
-> *Output:* completed the listed tasks/labs and took notes for the report.
+> *Reference:* FCJ Bootcamp 2025 playlist & Cloud Journey workshops.

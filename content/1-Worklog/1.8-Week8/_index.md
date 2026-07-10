@@ -1,21 +1,21 @@
 ---
 title : "Week 8"
-date : 2026-01-01
+date : 2026-04-20
 weight : 8
 chapter : false
 pre : " <b> 1.8 </b> "
 ---
 
-## Week 8 — Overall review + Project preparation
+## Week 8 — Infrastructure as Code, cost optimization & project prep
 
-This week focused on **Overall review + Project preparation**. The detailed daily log is below.
+Rounding out ops/cost skills (for the project) then locking the topic.
 
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Review the whole FCJ Bootcamp playlist<br>- Note down remaining knowledge gaps | 09/06/2026 | 09/06/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
-| 3 | - Finish the remaining Cloud Journey labs | 10/06/2026 | 10/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Read the project rules carefully (rubric, report template)<br>- Fork my own report from the FCJ workshop template (GitHub) | 11/06/2026 | 11/06/2026 | [Project brief](https://hcm-rules.awsfcaj.com/3-project/) |
-| 5 | - Write the proposal: 'Meeting Recording & AI Task-Assignment system'<br>- Overview, goals, problem, timeline, rough budget | 12/06/2026 | 12/06/2026 | [Project brief](https://hcm-rules.awsfcaj.com/3-project/) |
-| 6 | - Lock in my personal role in the project:<br>- + Research & select 'which services to use'<br>- + Estimate cost, assess suitability & real-world enterprise fit | 13/06/2026 | 13/06/2026 | [Project brief](https://hcm-rules.awsfcaj.com/3-project/) |
+| 2 | - Infrastructure as Code with AWS CloudFormation (000037) — (hard) | 08/06/2026 | 08/06/2026 | [Cloud Journey](https://000037.awsstudygroup.com/vi/) |
+| 3 | - Advanced monitoring with CloudWatch & Grafana (000029)<br>- Organizing resources with Tags & Resource Groups (000027) | 09/06/2026 | 09/06/2026 | [Cloud Journey](https://000029.awsstudygroup.com/vi/) |
+| 4 | - Cost saving with Savings Plans & Reserved Instances (000042)<br>- Cost visualization & analysis (000034) — basis for project costing | 10/06/2026 | 10/06/2026 | [Cloud Journey](https://000042.awsstudygroup.com/vi/) |
+| 5 | - Read the project rules carefully (rubric, template)<br>- Fork the report repo from the FCJ workshop template (GitHub) | 11/06/2026 | 11/06/2026 | [Đề bài project](https://hcm-rules.awsfcaj.com/3-project/) |
+| 6 | - Finalize the topic & write the proposal “Meeting recording & AI task-assignment”<br>- Define role: service selection, cost, security, real-world fit | 12/06/2026 | 12/06/2026 | [Đề bài project](https://hcm-rules.awsfcaj.com/3-project/) |
 
-> *Output:* completed the listed tasks/labs and took notes for the report.
+> *Reference:* FCJ Bootcamp 2025 playlist & Cloud Journey workshops.

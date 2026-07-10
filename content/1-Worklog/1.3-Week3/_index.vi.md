@@ -1,21 +1,21 @@
 ---
 title : "Tuần 3"
-date : 2026-01-01
+date : 2026-04-20
 weight : 3
 chapter : false
 pre : " <b> 1.3 </b> "
 ---
 
-## Tuần 3 — Compute (EC2, ELB, Auto Scaling)
+## Tuần 3 — Bảo mật EC2, Auto Scaling, lưu trữ & CSDL
 
-Tuần này tập trung vào **Compute (EC2, ELB, Auto Scaling)**. Chi tiết công việc theo ngày như bảng dưới.
+Độ khó trung bình; bắt đầu chạm tới bảo mật (IAM Roles for EC2, bảo mật S3).
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Amazon EC2: instance type, AMI, key pair<br>- Security Group, EBS Volume & Snapshot | 05/05/2026 | 05/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 3 | - Lab EC2: khởi tạo instance, SSH, cài web server<br>- Gán Elastic IP, dùng User Data script | 06/05/2026 | 06/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Elastic Load Balancer (ALB / NLB) tổng quan<br>- Health check, Target Group | 07/05/2026 | 07/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Auto Scaling Group: Launch Template, scaling policy<br>- Lab: ASG + ALB co giãn theo tải | 08/05/2026 | 08/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 6 | - So sánh EC2 vs Lambda vs Fargate (chi phí & use-case)<br>- Ôn tập nhóm Compute | 09/05/2026 | 09/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Cấp quyền ứng dụng an toàn với IAM Roles for EC2 (000048)<br>- (bảo mật) tránh nhúng access key vào máy chủ | 04/05/2026 | 04/05/2026 | [Cloud Journey](https://000048.awsstudygroup.com/vi/) |
+| 3 | - Mở rộng quy mô với EC2 Auto Scaling (000006)<br>- Quản lý DNS với Amazon Route 53 (000010) — gộp 1 ngày | 05/05/2026 | 05/05/2026 | [Cloud Journey](https://000006.awsstudygroup.com/vi/) |
+| 4 | - Hosting website tĩnh với Amazon S3 (000057)<br>- Các phương pháp bảo mật tốt nhất cho S3 (000069) — (bảo mật) | 06/05/2026 | 06/05/2026 | [Cloud Journey](https://000057.awsstudygroup.com/vi/) |
+| 5 | - Cơ sở dữ liệu quan hệ với Amazon RDS (000005) | 07/05/2026 | 07/05/2026 | [Cloud Journey](https://000005.awsstudygroup.com/vi/) |
+| 6 | - Cơ sở dữ liệu NoSQL với Amazon DynamoDB (000060) | 08/05/2026 | 08/05/2026 | [Cloud Journey](https://000060.awsstudygroup.com/vi/) |
 
-> *Kết quả:* hoàn thành các đầu việc/lab nêu trên và ghi chú lại cho báo cáo.
+> *Nguồn:* playlist FCJ Bootcamp 2025 & các workshop Cloud Journey.

@@ -1,21 +1,21 @@
 ---
 title : "Week 6"
-date : 2026-01-01
+date : 2026-04-20
 weight : 6
 chapter : false
 pre : " <b> 1.6 </b> "
 ---
 
-## Week 6 — Database & Serverless API
+## Week 6 — Security II — Data protection & private networking
 
-This week focused on **Database & Serverless API**. The detailed daily log is below.
+Security focus. KMS is a hard, core module — a full day dedicated to it.
 
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Amazon DynamoDB (NoSQL): table, partition key, RCU/WCU<br>- On-demand vs Provisioned capacity (cost) | 26/05/2026 | 26/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 3 | - Amazon RDS overview; DynamoDB vs RDS (when to use which)<br>- Lab: CRUD on DynamoDB | 27/05/2026 | 27/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - AWS Lambda: triggers, memory, timeout, per-request pricing<br>- Amazon API Gateway: REST / HTTP API | 28/05/2026 | 28/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Amazon Cognito: User Pool, auth, issue/validate JWT<br>- Lab: serverless API (API Gateway + Lambda + DynamoDB + Cognito) | 29/05/2026 | 29/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 6 | - Compare cost of serverless vs always-on servers<br>- Review the Serverless / Managed group | 30/05/2026 | 30/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Encryption with AWS Key Management Service - KMS (000033) — (hard, core security) | 25/05/2026 | 25/05/2026 | [Cloud Journey](https://000033.awsstudygroup.com/vi/) |
+| 3 | - Private access to S3 with VPC Endpoints (000111) — (network security) | 26/05/2026 | 26/05/2026 | [Cloud Journey](https://000111.awsstudygroup.com/vi/) |
+| 4 | - Application protection with AWS WAF (000026) — block SQLi/XSS/bots at the edge | 27/05/2026 | 27/05/2026 | [Cloud Journey](https://000026.awsstudygroup.com/vi/) |
+| 5 | - Detect & protect sensitive data with Amazon Macie (000090) | 28/05/2026 | 28/05/2026 | [Cloud Journey](https://000090.awsstudygroup.com/vi/) |
+| 6 | - Network traffic monitoring with VPC Flow Logs (000074) | 29/05/2026 | 29/05/2026 | [Cloud Journey](https://000074.awsstudygroup.com/vi/) |
 
-> *Output:* completed the listed tasks/labs and took notes for the report.
+> *Reference:* FCJ Bootcamp 2025 playlist & Cloud Journey workshops.

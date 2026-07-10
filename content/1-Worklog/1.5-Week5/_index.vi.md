@@ -1,21 +1,21 @@
 ---
 title : "Tuần 5"
-date : 2026-01-01
+date : 2026-04-20
 weight : 5
 chapter : false
 pre : " <b> 1.5 </b> "
 ---
 
-## Tuần 5 — Storage & Edge (S3, CloudFront, WAF)
+## Tuần 5 — Bảo mật I — IAM nâng cao & kiểm soát truy cập
 
-Tuần này tập trung vào **Storage & Edge (S3, CloudFront, WAF)**. Chi tiết công việc theo ngày như bảng dưới.
+Trọng tâm bảo mật (theo sở thích cá nhân). Các module khó, học kỹ từng cái.
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Amazon S3: bucket, object, storage class<br>- Versioning, static website hosting | 19/05/2026 | 19/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 3 | - S3 Lifecycle → Glacier (tối ưu chi phí lưu trữ)<br>- S3 Encryption, Block Public Access | 20/05/2026 | 20/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Amazon CloudFront (CDN): distribution, cache, OAC<br>- AWS WAF: chặn SQLi / XSS / bot ở biên | 21/05/2026 | 21/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Lab: host web tĩnh S3 + CloudFront + WAF<br>- Cấu hình lifecycle S3 → Glacier | 22/05/2026 | 22/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 6 | - So sánh chi phí giữa các storage class<br>- Ôn tập nhóm Storage / Edge | 23/05/2026 | 23/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Kiểm soát truy cập với IAM Policies và Conditions (000044) — (khó, bảo mật) | 18/05/2026 | 18/05/2026 | [Cloud Journey](https://000044.awsstudygroup.com/vi/) |
+| 3 | - Giới hạn quyền với IAM Permission Boundaries (000030) — (khó, bảo mật) | 19/05/2026 | 19/05/2026 | [Cloud Journey](https://000030.awsstudygroup.com/vi/) |
+| 4 | - Liên kết danh tính với AWS IAM Identity Center / SSO (000012) | 20/05/2026 | 20/05/2026 | [Cloud Journey](https://000012.awsstudygroup.com/vi/) |
+| 5 | - Xác thực người dùng với Amazon Cognito (000141) — (bảo mật ứng dụng) | 21/05/2026 | 21/05/2026 | [Cloud Journey](https://000141.awsstudygroup.com/vi/) |
+| 6 | - Quản lý bí mật với AWS Secrets Manager (000096) | 22/05/2026 | 22/05/2026 | [Cloud Journey](https://000096.awsstudygroup.com/vi/) |
 
-> *Kết quả:* hoàn thành các đầu việc/lab nêu trên và ghi chú lại cho báo cáo.
+> *Nguồn:* playlist FCJ Bootcamp 2025 & các workshop Cloud Journey.

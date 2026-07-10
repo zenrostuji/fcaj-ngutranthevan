@@ -1,21 +1,21 @@
 ---
 title : "Week 2"
-date : 2026-01-01
+date : 2026-04-20
 weight : 2
 chapter : false
 pre : " <b> 1.2 </b> "
 ---
 
-## Week 2 — IAM & Security
+## Week 2 — VPC networking & EC2 compute
 
-This week focused on **IAM & Security**. The detailed daily log is below.
+Hard, foundational modules; a shortened week due to the 30/4 and 1/5 holidays.
 
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - IAM: User, Group, Role, Policy<br>- Least Privilege principle | 28/04/2026 | 28/04/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
-| 3 | - IAM lab: create Users/Groups, attach Policies<br>- Enable MFA, create & use IAM Roles<br>- Practice writing custom JSON policies | 29/04/2026 | 29/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Public holiday 30/4 (Reunification Day) | 30/04/2026 | 30/04/2026 |  |
-| 5 | - Public holiday 1/5 (International Labour Day) | 01/05/2026 | 01/05/2026 |  |
-| 6 | - Review IAM; read AWS Well-Architected (Security pillar)<br>- Self-audit account security (root, access keys, MFA) | 02/05/2026 | 02/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Networking basics with Amazon VPC (000003)<br>- Public/private subnets, Route Table, Internet Gateway (hard — start) | 27/04/2026 | 27/04/2026 | [Cloud Journey](https://000003.awsstudygroup.com/vi/) |
+| 3 | - AWS networking workshop (000092)<br>- NAT Gateway, routing, public/private separation (hard — cont.) | 28/04/2026 | 28/04/2026 | [Cloud Journey](https://000092.awsstudygroup.com/vi/) |
+| 4 | - Virtual servers with Amazon EC2 (000004)<br>- Instance, AMI, key pair, Security Group | 29/04/2026 | 29/04/2026 | [Cloud Journey](https://000004.awsstudygroup.com/vi/) |
+| 5 | - Public holiday 30/4 (Reunification Day) | 30/04/2026 | 30/04/2026 |  |
+| 6 | - Public holiday 1/5 (International Labour Day) | 01/05/2026 | 01/05/2026 |  |
 
-> *Output:* completed the listed tasks/labs and took notes for the report.
+> *Reference:* FCJ Bootcamp 2025 playlist & Cloud Journey workshops.

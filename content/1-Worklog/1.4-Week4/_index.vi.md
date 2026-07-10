@@ -1,21 +1,21 @@
 ---
 title : "Tuần 4"
-date : 2026-01-01
+date : 2026-04-20
 weight : 4
 chapter : false
 pre : " <b> 1.4 </b> "
 ---
 
-## Tuần 4 — Networking (VPC)
+## Tuần 4 — CDN, Serverless nền tảng & web sẵn sàng cao
 
-Tuần này tập trung vào **Networking (VPC)**. Chi tiết công việc theo ngày như bảng dưới.
+Kết hợp module trung bình và khó (Step Functions); khép lại phần nền tảng.
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Amazon VPC: CIDR, Subnet public/private<br>- Route Table, Internet Gateway | 12/05/2026 | 12/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 3 | - NAT Gateway vs NAT Instance (chi phí, HA)<br>- Security Group vs Network ACL | 13/05/2026 | 13/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - VPC Endpoint: Gateway (S3/DynamoDB) & Interface Endpoint<br>- Lý do dùng để traffic không ra Internet | 14/05/2026 | 14/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Lab: dựng VPC 2 AZ (public + private subnet mỗi AZ)<br>- 2 NAT Gateway + VPC Endpoint cho DynamoDB | 15/05/2026 | 15/05/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
-| 6 | - Amazon Route 53 (DNS) tổng quan<br>- Ôn tập Networking; vẽ lại sơ đồ VPC | 16/05/2026 | 16/05/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Phân phối nội dung với Amazon CloudFront (000094) | 11/05/2026 | 11/05/2026 | [Cloud Journey](https://000094.awsstudygroup.com/vi/) |
+| 3 | - Tự động hóa Serverless với AWS Lambda (000022) | 12/05/2026 | 12/05/2026 | [Cloud Journey](https://000022.awsstudygroup.com/vi/) |
+| 4 | - Điều phối quy trình với AWS Step Functions (000047) — (khó) | 13/05/2026 | 13/05/2026 | [Cloud Journey](https://000047.awsstudygroup.com/vi/) |
+| 5 | - Hệ thống nhắn tin với Amazon SQS và SNS (000077) | 14/05/2026 | 14/05/2026 | [Cloud Journey](https://000077.awsstudygroup.com/vi/) |
+| 6 | - Xây dựng ứng dụng web có tính sẵn sàng cao (000101) — bài tổng hợp | 15/05/2026 | 15/05/2026 | [Cloud Journey](https://000101.awsstudygroup.com/vi/) |
 
-> *Kết quả:* hoàn thành các đầu việc/lab nêu trên và ghi chú lại cho báo cáo.
+> *Nguồn:* playlist FCJ Bootcamp 2025 & các workshop Cloud Journey.
