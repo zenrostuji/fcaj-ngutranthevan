@@ -6,16 +6,16 @@ chapter : false
 pre : " <b> 1.8 </b> "
 ---
 
-## Week 8 — Infrastructure as Code, cost optimization & project prep
+## Week 8 — Data, AI/ML & project preparation
 
-Rounding out ops/cost skills (for the project) then locking the topic.
+Data, AI/ML and project preparation.
 
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Infrastructure as Code with AWS CloudFormation (000037) — (hard) | 08/06/2026 | 08/06/2026 | [Cloud Journey](https://000037.awsstudygroup.com/vi/) |
-| 3 | - Advanced monitoring with CloudWatch & Grafana (000029)<br>- Organizing resources with Tags & Resource Groups (000027) | 09/06/2026 | 09/06/2026 | [Cloud Journey](https://000029.awsstudygroup.com/vi/) |
-| 4 | - Cost saving with Savings Plans & Reserved Instances (000042)<br>- Cost visualization & analysis (000034) — basis for project costing | 10/06/2026 | 10/06/2026 | [Cloud Journey](https://000042.awsstudygroup.com/vi/) |
-| 5 | - Read the project rules carefully (rubric, template)<br>- Fork the report repo from the FCJ workshop template (GitHub) | 11/06/2026 | 11/06/2026 | [Đề bài project](https://hcm-rules.awsfcaj.com/3-project/) |
-| 6 | - Finalize the topic & write the proposal “Meeting recording & AI task-assignment”<br>- Define role: service selection, cost, security, real-world fit | 12/06/2026 | 12/06/2026 | [Đề bài project](https://hcm-rules.awsfcaj.com/3-project/) |
+| 2 | - Event-driven processing with Amazon EventBridge and AWS Step Functions | 08/06/2026 | 08/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 3 | - Intro to AI/ML on AWS: speech-to-text and language processing | 09/06/2026 | 09/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 4 | - Overall review; filling in remaining knowledge gaps | 10/06/2026 | 10/06/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 5 | - Read the project rules carefully<br>- Fork the report repo from the FCJ workshop template | 11/06/2026 | 11/06/2026 | [Đề bài project](https://hcm-rules.awsfcaj.com/3-project/) |
+| 6 | - Finalize the topic and write the proposal “Meeting recording & AI task-assignment”<br>- Define the personal role: service selection, cost, security, real-world fit | 12/06/2026 | 12/06/2026 | [Đề bài project](https://hcm-rules.awsfcaj.com/3-project/) |
 
 > *Reference:* FCJ Bootcamp 2025 playlist & Cloud Journey workshops.

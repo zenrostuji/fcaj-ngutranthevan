@@ -6,16 +6,16 @@ chapter : false
 pre : " <b> 1.7 </b> "
 ---
 
-## Tuần 7 — Bảo mật III — Phát hiện mối đe dọa & tuân thủ
+## Tuần 7 — Container & tự động hóa triển khai
 
-Trọng tâm bảo mật, khép lại nhánh này và hệ thống hóa theo Well-Architected.
+Đóng gói bằng container và tự động hóa triển khai (CI/CD).
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Phát hiện mối đe dọa với Amazon GuardDuty (000098) — (khó, bảo mật) | 01/06/2026 | 01/06/2026 | [Cloud Journey](https://000098.awsstudygroup.com/vi/) |
-| 3 | - Tuân thủ & tổng hợp cảnh báo bảo mật với AWS Security Hub (000018) | 02/06/2026 | 02/06/2026 | [Cloud Journey](https://000018.awsstudygroup.com/vi/) |
-| 4 | - Quản trị bảo mật đa tài khoản với AWS Firewall Manager (000097) | 03/06/2026 | 03/06/2026 | [Cloud Journey](https://000097.awsstudygroup.com/vi/) |
-| 5 | - Vá lỗi & làm cứng ảnh máy với EC2 Image Builder (000099) — (bảo mật vận hành) | 04/06/2026 | 04/06/2026 | [Cloud Journey](https://000099.awsstudygroup.com/vi/) |
-| 6 | - Ôn tập & hệ thống hóa toàn bộ nhánh Bảo mật<br>- Đối chiếu AWS Well-Architected — trụ Security | 05/06/2026 | 05/06/2026 | [FCJ Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| 2 | - Đóng gói ứng dụng với Docker và Amazon ECR | 01/06/2026 | 01/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 3 | - Chạy container với Amazon ECS và AWS Fargate | 02/06/2026 | 02/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 4 | - Tự động hóa CI/CD với AWS CodePipeline và CodeBuild | 03/06/2026 | 03/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 5 | - Triển khai ứng dụng với AWS CodeDeploy | 04/06/2026 | 04/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 6 | - Thực hành triển khai ứng dụng container qua pipeline CI/CD | 05/06/2026 | 05/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
 
 > *Nguồn:* playlist FCJ Bootcamp 2025 & các workshop Cloud Journey.

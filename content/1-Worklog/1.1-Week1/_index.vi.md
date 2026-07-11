@@ -6,16 +6,16 @@ chapter : false
 pre : " <b> 1.1 </b> "
 ---
 
-## Tuần 1 — Khởi động: Tài khoản, chi phí, IAM & CLI
+## Tuần 1 — Làm quen AWS & dịch vụ nền tảng
 
-Các module nền tảng, độ khó thấp nên đi nhanh để lấy đà.
+Làm quen môi trường AWS và các dịch vụ nền tảng.
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Làm quen chương trình & mentor FCJ, đọc nội quy<br>- Tạo tài khoản AWS Free Tier (Workshop 000001) | 20/04/2026 | 20/04/2026 | [Nội quy FCAJ](https://hcm-rules.awsfcaj.com/) |
-| 3 | - Quản lý chi phí với AWS Budgets (000007)<br>- Hỗ trợ kỹ thuật với AWS Support (000009) — 2 module dễ, gộp 1 ngày | 21/04/2026 | 21/04/2026 | [Cloud Journey](https://000007.awsstudygroup.com/vi/) |
-| 4 | - Quản lý truy cập với IAM: User, Group, Role, Policy (000002)<br>- Nền tảng bảo mật — học kỹ, thực hành least privilege | 22/04/2026 | 22/04/2026 | [Cloud Journey](https://000002.awsstudygroup.com/vi/) |
-| 5 | - Thao tác dòng lệnh với AWS CLI (000011) | 23/04/2026 | 23/04/2026 | [Cloud Journey](https://000011.awsstudygroup.com/vi/) |
-| 6 | - Giám sát hệ thống với Amazon CloudWatch (000008) | 24/04/2026 | 24/04/2026 | [Cloud Journey](https://000008.awsstudygroup.com/vi/) |
+| 2 | - Làm quen chương trình và mentor FCJ, đọc nội quy<br>- Tạo tài khoản AWS Free Tier | 20/04/2026 | 20/04/2026 | [Nội quy FCAJ](https://hcm-rules.awsfcaj.com/) |
+| 3 | - Quản lý chi phí với AWS Budgets<br>- Hỗ trợ kỹ thuật với AWS Support | 21/04/2026 | 21/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 4 | - Quản lý truy cập với IAM: User, Group, Role, Policy | 22/04/2026 | 22/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 5 | - Thao tác dòng lệnh với AWS CLI | 23/04/2026 | 23/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 6 | - Giám sát hệ thống với Amazon CloudWatch | 24/04/2026 | 24/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
 
 > *Nguồn:* playlist FCJ Bootcamp 2025 & các workshop Cloud Journey.
