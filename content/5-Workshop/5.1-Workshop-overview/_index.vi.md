@@ -8,6 +8,10 @@ pre : " <b> 5.1. </b> "
 
 #### Bạn sẽ xây dựng gì
 
+{{% notice info %}}
+**Video Demo:** Bạn có thể xem video demo toàn bộ luồng hoạt động của hệ thống [tại đây](https://drive.google.com/drive/folders/1x4Vyloh-aehE30BazEi0He-9aIlA4sjj?usp=sharing).
+{{% /notice %}}
+
 Workshop triển khai một MVP cho **AI Meeting Workforce Platform**. Mục tiêu chính là biến dữ liệu cuộc họp thành thông tin có thể hành động: transcript/audio được lưu lại, AI tóm tắt nội dung, trích xuất task, sau đó dashboard hiển thị task theo vai trò và trạng thái xử lý.
 
 Nền tảng được chia thành các nhóm dịch vụ sau:

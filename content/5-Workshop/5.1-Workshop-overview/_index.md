@@ -8,6 +8,10 @@ pre : " <b> 5.1. </b> "
 
 #### What you will build
 
+{{% notice info %}}
+**Demo Video:** You can watch the complete end-to-end demo of the platform [here](https://drive.google.com/drive/folders/1x4Vyloh-aehE30BazEi0He-9aIlA4sjj?usp=sharing).
+{{% /notice %}}
+
 This workshop implements an MVP for **AI Meeting Workforce Platform**. The main goal is to turn meeting data into actionable information: transcripts/audio are stored, AI summarizes the meeting, extracts tasks, and the dashboard displays those tasks by user role and processing status.
 
 The platform is organized into the following service groups:
