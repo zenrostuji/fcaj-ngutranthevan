@@ -8,7 +8,7 @@ pre : " <b> 1. </b> "
 
 ## Worklog
 
-This worklog records the internship in the **First Cloud AI Journey (FCAJ)** program over **12 weeks**, from **20/04/2026 to 10/07/2026** (Monday–Friday). It matches the progress-tracking sheet, in two phases: **Weeks 1–8 learning AWS** and **Weeks 9–12 the project** *Meeting recording & AI task-assignment*.
+This worklog records the internship in the **First Cloud AI Journey (FCAJ)** program over **12 weeks**, from **20/04/2026 to 10/07/2026** (Monday–Friday). It matches the progress-tracking sheet, in two phases: **Weeks 1–8 learning AWS** and **Weeks 9–13 the project** *Meeting recording & AI task-assignment*.
 
 Weekly contents:
 
@@ -35,3 +35,5 @@ Weekly contents:
 **Week 11:** [[Project] Optimization, security & suitability](1.11-week11/)
 
 **Week 12:** [[Project] Enterprise applicability & finalization](1.12-week12/)
+
+**Week 13:** [Project revision & internship report writing](1.13-week13/)

@@ -8,7 +8,7 @@ pre : " <b> 1. </b> "
 
 ## Nhật ký công việc (Worklog)
 
-Worklog ghi lại quá trình thực tập trong chương trình **First Cloud AI Journey (FCAJ)** trong **12 tuần**, từ **20/04/2026 đến 10/07/2026** (Thứ Hai – Thứ Sáu). Nội dung khớp với Phiếu theo dõi tiến độ, gồm hai giai đoạn: **Tuần 1–8 học AWS** và **Tuần 9–12 làm dự án** *Hệ thống họp ghi âm & AI giao việc*.
+Worklog ghi lại quá trình thực tập trong chương trình **First Cloud AI Journey (FCAJ)** trong **12 tuần**, từ **20/04/2026 đến 10/07/2026** (Thứ Hai – Thứ Sáu). Nội dung khớp với Phiếu theo dõi tiến độ, gồm hai giai đoạn: **Tuần 1–8 học AWS** và **Tuần 9–13 làm dự án** *Hệ thống họp ghi âm & AI giao việc*.
 
 Nội dung các tuần:
 
@@ -35,3 +35,5 @@ Nội dung các tuần:
 **Tuần 11:** [[Project] Tối ưu, bảo mật & đánh giá phù hợp](1.11-week11/)
 
 **Tuần 12:** [[Project] Áp dụng thực tế & hoàn thiện](1.12-week12/)
+
+**Tuần 13:** [Chỉnh sửa dự án & viết báo cáo thực tập](1.13-week13/)
