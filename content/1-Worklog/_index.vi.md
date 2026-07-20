@@ -8,10 +8,7 @@ pre : " <b> 1. </b> "
 
 ## Nhật ký công việc (Worklog)
 
-Worklog ghi lại quá trình thực tập trong chương trình **First Cloud AI Journey (FCAJ)**, thực hiện trong **12 tuần**, từ **Thứ Hai 20/04/2026 đến Thứ Sáu 10/07/2026** (lịch làm việc Thứ Hai – Thứ Sáu), gồm hai giai đoạn:
-
-- **Tuần 1–8 — Học AWS theo playlist [FCJ Bootcamp 2025](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i)**: học lần lượt theo các module của giáo trình Cloud Journey, từ nền tảng (tài khoản, IAM, mạng, EC2, lưu trữ, cơ sở dữ liệu) đến serverless, bảo mật, tối ưu hệ thống, container/CI-CD và dữ liệu/AI. Trong đó có **một tuần chuyên sâu về Bảo mật (Tuần 5)** theo định hướng cá nhân.
-- **Tuần 9–12 — Dự án tổng hợp**: hệ thống *Họp ghi âm & AI giao việc* trên AWS, với vai trò cá nhân là lựa chọn dịch vụ, tính chi phí, rà soát bảo mật, đánh giá tính phù hợp và khả năng áp dụng thực tế.
+Worklog ghi lại quá trình thực tập trong chương trình **First Cloud AI Journey (FCAJ)** trong **12 tuần**, từ **20/04/2026 đến 10/07/2026** (Thứ Hai – Thứ Sáu). Nội dung khớp với Phiếu theo dõi tiến độ, gồm hai giai đoạn: **Tuần 1–8 học AWS** và **Tuần 9–12 làm dự án** *Hệ thống họp ghi âm & AI giao việc*.
 
 Nội dung các tuần:
 

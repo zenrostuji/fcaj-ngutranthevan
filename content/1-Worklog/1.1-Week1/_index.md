@@ -8,14 +8,12 @@ pre : " <b> 1.1 </b> "
 
 ## Week 1 — Getting familiar with AWS & foundational services
 
-Getting familiar with the AWS environment and foundational services.
-
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
-| 2 | - Get to know the FCJ program and mentors, read the rules<br>- Create an AWS Free Tier account | 20/04/2026 | 20/04/2026 | [Nội quy FCAJ](https://hcm-rules.awsfcaj.com/) |
-| 3 | - Cost management with AWS Budgets<br>- Technical support with AWS Support | 21/04/2026 | 21/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
-| 4 | - Access management with IAM: User, Group, Role, Policy | 22/04/2026 | 22/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
-| 5 | - Command-line operations with AWS CLI | 23/04/2026 | 23/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
-| 6 | - System monitoring with Amazon CloudWatch | 24/04/2026 | 24/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 2 | Study the organization structure, workflow and the First Cloud AI Journey Bootcamp roadmap; read and note the internship unit's rules. | 20/04/2026 | 20/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 3 | Register and create an AWS Free Tier account; distinguish free vs paid resources and recognize the risk of incurring charges. | 21/04/2026 | 21/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 4 | Set up cost management with AWS Budgets and Email alerts; get familiar with AWS Support and its support plans. | 22/04/2026 | 22/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 5 | Get familiar with the AWS Management Console and AWS CLI, configure a profile, verify the Region; basic monitoring with Amazon CloudWatch. | 23/04/2026 | 23/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 6 | Re-practice and take notes to consolidate the week's foundational knowledge. | 24/04/2026 | 24/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
 
-> *Reference:* FCJ Bootcamp 2025 playlist & Cloud Journey workshops.
+> *Reference:* [FCJ Bootcamp 2025 playlist](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) & Cloud Journey workshops.

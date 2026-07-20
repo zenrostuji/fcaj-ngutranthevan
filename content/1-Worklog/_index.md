@@ -8,10 +8,7 @@ pre : " <b> 1. </b> "
 
 ## Worklog
 
-This worklog records the internship in the **First Cloud AI Journey (FCAJ)** program, carried out over **12 weeks**, from **Monday 20/04/2026 to Friday 10/07/2026** (a Monday–Friday schedule), in two phases:
-
-- **Weeks 1–8 — Learning AWS via the [FCJ Bootcamp 2025](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) playlist**: going module by module through the Cloud Journey curriculum, from foundations (account, IAM, networking, EC2, storage, databases) to serverless, security, system optimization, containers/CI-CD and data/AI, including **one dedicated Security week (Week 5)** by personal interest.
-- **Weeks 9–12 — Capstone project**: a *Meeting recording & AI task-assignment* system on AWS, with the personal role of service selection, cost estimation, security review, suitability and real-world applicability.
+This worklog records the internship in the **First Cloud AI Journey (FCAJ)** program over **12 weeks**, from **20/04/2026 to 10/07/2026** (Monday–Friday). It matches the progress-tracking sheet, in two phases: **Weeks 1–8 learning AWS** and **Weeks 9–12 the project** *Meeting recording & AI task-assignment*.
 
 Weekly contents:
 
