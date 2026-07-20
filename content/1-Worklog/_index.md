@@ -8,7 +8,7 @@ pre : " <b> 1. </b> "
 
 ## Worklog
 
-This worklog records the internship in the **First Cloud AI Journey (FCAJ)** program over **12 weeks**, from **20/04/2026 to 10/07/2026** (Monday–Friday). It matches the progress-tracking sheet, in two phases: **Weeks 1–8 learning AWS** and **Weeks 9–13 the project** *Meeting recording & AI task-assignment*.
+This worklog records the internship in the **First Cloud AI Journey (FCAJ)** program over **13 weeks**, from **20/04/2026 to 17/07/2026** (Monday–Friday). It matches the progress-tracking sheet: **Weeks 1–8 learning AWS module by module on AWS Study Group**, **Weeks 9–13 the project** *Meeting recording & AI task-assignment* (analysis, service selection, cost, optimization & security, testing, bug fixing and report writing).
 
 Weekly contents:
 
@@ -24,16 +24,16 @@ Weekly contents:
 
 **Week 6:** [Operations, reliability & cost optimization](1.6-week6/)
 
-**Week 7:** [Containers & deployment automation](1.7-week7/)
+**Week 7:** [Containers & CI/CD](1.7-week7/)
 
-**Week 8:** [Data, AI/ML & project preparation](1.8-week8/)
+**Week 8:** [Data, AI/ML & choosing the project topic](1.8-week8/)
 
 **Week 9:** [[Project] Analysis & service selection](1.9-week9/)
 
-**Week 10:** [[Project] Cost estimation](1.10-week10/)
+**Week 10:** [[Project] Cost estimation & architecture revision](1.10-week10/)
 
-**Week 11:** [[Project] Optimization, security & suitability](1.11-week11/)
+**Week 11:** [[Project] Optimization & security review](1.11-week11/)
 
-**Week 12:** [[Project] Enterprise applicability & finalization](1.12-week12/)
+**Week 12:** [[Project] Testing & evaluation](1.12-week12/)
 
-**Week 13:** [Project revision & internship report writing](1.13-week13/)
+**Week 13:** [[Project] Bug fixing & report writing](1.13-week13/)
