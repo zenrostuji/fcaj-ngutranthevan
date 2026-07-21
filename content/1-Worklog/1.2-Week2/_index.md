@@ -11,8 +11,8 @@ pre : " <b> 1.2 </b> "
 | Day | Tasks | Start date | End date | Reference |
 | :---: | :--- | :---: | :---: | :--- |
 | 2 | Networking module: VPC, Subnet, Route Table, creating public/private subnets. | 27/04/2026 | 27/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
-| 3 | Labs: Internet Gateway, NAT Gateway; Security Group, Network ACLs; launch EC2 in a Subnet. | 28/04/2026 | 28/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
-| 4 | Grant application permissions with IAM Roles for EC2. | 29/04/2026 | 29/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 3 | Labs: create Internet Gateway, NAT Gateway; configure Security Group, Network ACLs. | 28/04/2026 | 28/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 4 | Labs: launch an EC2 instance in a Subnet; grant permissions with IAM Roles for EC2. | 29/04/2026 | 29/04/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
 | 5 | Public holiday 30/4 (Reunification Day). | 30/04/2026 | 30/04/2026 |  |
 | 6 | Public holiday 1/5 (International Labour Day). | 01/05/2026 | 01/05/2026 |  |
 

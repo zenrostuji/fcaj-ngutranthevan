@@ -12,6 +12,8 @@ pre : " <b> 1.8 </b> "
 | :---: | :--- | :---: | :---: | :--- |
 | 2 | Xử lý sự kiện với Amazon EventBridge và AWS Step Functions. | 08/06/2026 | 08/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
 | 3 | Tìm hiểu các dịch vụ AI/ML trên AWS. | 09/06/2026 | 09/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
-| 4 | Chốt đề tài dự án. | 10/06/2026 | 10/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 4 | Nghiên cứu ứng dụng AI/ML cho bài toán họp ghi âm và giao việc. | 10/06/2026 | 10/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 5 | Ôn tập, hệ thống hóa kiến thức đã học. | 11/06/2026 | 11/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
+| 6 | Chốt đề tài dự án. | 12/06/2026 | 12/06/2026 | [Cloud Journey](https://cloudjourney.awsstudygroup.com/vi/) |
 
 > *Nguồn:* [playlist FCJ Bootcamp 2025](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) & các workshop Cloud Journey.
